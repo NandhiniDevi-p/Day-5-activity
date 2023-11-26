@@ -1,0 +1,25 @@
+// TASK 05
+
+//02) create own resume in json fromat 
+
+{
+  "name": "Nandhini Devi",
+  "mail": "nandhinidevi.p@gmail.com",
+  "mob": "9884107***",
+  "skills": ["HTML", "CSS", "JavaScript", "Java"],
+  "address": "Kolathur, Chennai",
+  "education": [
+    {
+      "level": "UG",
+      "degree": "MCS",
+      "institution": "SRM Institute of Science and Technology, Ramapuram",
+      "cgpa": 7.8
+    },
+    {
+      "level": "PG",
+      "degree": "MCS",
+      "institution": "SRM Institute of Science and Technology, Ramapuram",
+      "cgpa": 9.1
+    }
+  ]
+}
